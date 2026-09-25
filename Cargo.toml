@@ -1,0 +1,17 @@
+[package]
+name = "core-edition"
+version = "0.1.0"
+edition = "2021"
+license = "GPL-3.0-only"
+description = "Core Edition — open-source 3D voxel engine seed prototype"
+repository = "https://github.com/core-edition/core-edition"
+readme = "README.md"
+
+[dependencies]
+wgpu = "0.20"
+winit = "0.29"
+pollster = "0.3"
+bytemuck = { version = "1.16", features = ["derive"] }
+glam = "0.27"
+env_logger = "0.11"
+log = "0.4"
