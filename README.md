@@ -1,5 +1,7 @@
 # Core Edition
 
+![Core Edition Seed Prototype](media/SeedPrototypeScreenshot.png)
+
 ![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Language: Rust](https://img.shields.io/badge/Language-Rust-orange.svg)
 ![Graphics: wgpu](https://img.shields.io/badge/Graphics-wgpu-green.svg)
