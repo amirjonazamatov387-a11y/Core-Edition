@@ -4,7 +4,7 @@
 ![Language: Rust](https://img.shields.io/badge/Language-Rust-orange.svg)
 ![Graphics: wgpu](https://img.shields.io/badge/Graphics-wgpu-green.svg)
 
-**Core Edition** is an open-source, high-performance 3D voxel engine built entirely from scratch using Rust and `wgpu`. Designed for high throughput, modular architecture, and cross-platform flexibility, Core Edition bypasses third-party game engines to deliver a pure, low-level graphics pipeline.
+**Core Edition** is an open-source, high-performance 3D voxel engine (simmilar to Minecraft) built entirely from scratch using Rust and `wgpu`. Designed for high throughput, modular architecture, and cross-platform flexibility, Core Edition bypasses third-party game engines to deliver a pure, low-level graphics pipeline.
 
 ---
 
