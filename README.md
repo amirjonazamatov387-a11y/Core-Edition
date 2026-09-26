@@ -1,6 +1,6 @@
 # Core Edition
 **Our Prototype**
-[Core Edition Seed Prototype](media/SeedPrototypeScreenshot.png)
+![Core Edition Seed Prototype](media/SeedPrototypeScreenshot.png)
 
 ![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Language: Rust](https://img.shields.io/badge/Language-Rust-orange.svg)
