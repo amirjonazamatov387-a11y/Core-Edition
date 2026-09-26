@@ -1,5 +1,5 @@
 # Core Edition
-**Our Prototype**
+**Our seed prototype**
 ![Core Edition Seed Prototype](media/SeedPrototypeScreenshot.png)
 
 ![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)
